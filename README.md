@@ -1,0 +1,4 @@
+OBRAZ
+=====
+
+Projekcik zespolowy BiJey
